@@ -1,0 +1,17 @@
+.DS_Store
+
+# Generated data and local benchmark downloads
+src/data/exp3/pjm_data_combined.csv
+src/data/exp3/pjm_fl_panel.csv
+src/data/results/
+src/data/warcraft_shortest_path_oneskin/
+
+# Runtime outputs
+results/
+outputs/
+tmp/
+logs/
+plots/
+src/plots/
+
+gurobi.lic
